@@ -527,7 +527,64 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "jcat4",
+      "name": "Joey Cardosi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7866287?v=4",
+      "profile": "https://github.com/jcat4",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "Havock94",
+      "name": "Luca",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7635248?v=4",
+      "profile": "https://github.com/Havock94",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "anjola-adeuyi",
+      "name": "Anjola Adeuyi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57623705?v=4",
+      "profile": "https://www.linkedin.com/in/anjola-adeuyi/",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "ASPzoomin",
+      "name": "Sai Pavan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20736334?v=4",
+      "profile": "https://github.com/ASPzoomin",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "jmurphyau",
+      "name": "James Murphy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/445432?v=4",
+      "profile": "https://github.com/jmurphyau",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "jgorfine-zendesk",
+      "name": "Jen Gorfine",
+      "avatar_url": "https://avatars.githubusercontent.com/u/93289772?v=4",
+      "profile": "https://github.com/jgorfine-zendesk",
+      "contributions": [
+        "bug",
+        "a11y",
+        "code"
+      ]
     }
   ],
-  "skipCi": true
+  "skipCi": true,
+  "commitConvention": "angular"
 }
